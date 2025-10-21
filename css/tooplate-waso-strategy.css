@@ -1,14 +1,3 @@
-/*
-
-Tooplate 2130 Waso Strategy
-
-https://www.tooplate.com/view/2130-waso-strategy
-
-Free Bootstrap 5 HTML Template
-
-*/
-
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
@@ -317,7 +306,7 @@ strong {
 }
 
 .navbar-toggler .navbar-toggler-icon {
-  background: var(--dark-color);
+  background: var(--light-color);
   transition: background 10ms 300ms ease;
   display: block;
   width: 30px;
@@ -333,7 +322,7 @@ strong {
   position: absolute;
   right: 0;
   left: 0;
-  background: var(--dark-color);
+  background: var(--light-color);
   width: 30px;
   height: 2px;
   content: '';
@@ -906,4 +895,5 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
