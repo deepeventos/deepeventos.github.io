@@ -714,6 +714,11 @@ strong {
   font-size: var(--copyright-text-font-size);
 }
 
+.site-footer-link,
+.copyright-text {
+  color: var(--white-color);
+}
+
 .site-footer-links {
   padding-left: 0;
   display: flex;
@@ -913,6 +918,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
