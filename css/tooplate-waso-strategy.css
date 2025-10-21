@@ -707,7 +707,6 @@ strong {
 .site-footer {
   background: var(--dark-color);
   border-top: 1px solid rgb(255 255 255 / 10%);
-  padding-bottom: 30px;
 }
 
 .site-footer .copyright-text {
@@ -914,6 +913,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
