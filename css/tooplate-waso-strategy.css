@@ -19,7 +19,7 @@
   --h6-font-size:                 22px;
   --p-font-size:                  18px;
   --menu-font-size:               14px;
-  --copyright-text-font-size:     16px;
+  --copyright-text-font-size:     12px;
 
   --font-weight-normal:           400;
   --font-weight-medium:           500;
@@ -706,8 +706,7 @@ strong {
 -----------------------------------------*/
 .site-footer {
   background: var(--dark-color);
-  border-top: 1px solid rgb(255 255 255 / 50%);
-  margin-top: 30px;
+  border-top: 1px solid rgb(255 255 255 / 10%);
   padding-bottom: 30px;
 }
 
@@ -915,6 +914,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
