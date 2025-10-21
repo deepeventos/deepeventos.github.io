@@ -705,7 +705,7 @@ strong {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background: var(--primary-color);
+  background: var(--dark-color);
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -899,6 +899,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
