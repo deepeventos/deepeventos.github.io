@@ -9,7 +9,7 @@
   --dark-color:                   #050505;
   --p-color:                      #717275;
 
-  --body-font-family:             'DM Sans', sans-serif;
+  --body-font-family:             "Inter Tight", sans-serif;
 
   --h1-font-size:                 60px;
   --h2-font-size:                 42px;
@@ -918,6 +918,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
