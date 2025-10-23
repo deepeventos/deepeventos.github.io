@@ -368,7 +368,7 @@ strong {
 -----------------------------------------*/
 .hero {
   position: relative;
-  height: calc(100vh - 133px);
+  height: calc(100vh - 74px);
 }
 
 .section-hero {
@@ -918,6 +918,7 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
 
 
